@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "OpenDeepseek (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "OpenDeepseek (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
